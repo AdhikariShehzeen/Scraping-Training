@@ -1,0 +1,23 @@
+[
+{"product_name": "Lenovo IdeaTab", "product_price": "$69.99", "rating": "3", "reviews": "7 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/10"},
+{"product_name": "Acer Iconia", "product_price": "$96.99", "rating": "1", "reviews": "7 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/11"},
+{"product_name": "Asus MeMO Pad", "product_price": "$102.99", "rating": "4", "reviews": "14 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/12"},
+{"product_name": "Amazon Kindle", "product_price": "$103.99", "rating": "4", "reviews": "3 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/13"},
+{"product_name": "iPad Mini Retina", "product_price": "$537.99", "rating": "2", "reviews": "8 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/14"},
+{"product_name": "IdeaTab A3500L", "product_price": "$88.99", "rating": "4", "reviews": "7 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/15"},
+{"product_name": "Galaxy Tab", "product_price": "$251.99", "rating": "3", "reviews": "14 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/16"},
+{"product_name": "IdeaTab A3500-H", "product_price": "$148.99", "rating": "2", "reviews": "9 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/17"},
+{"product_name": "Galaxy Tab 3", "product_price": "$97.99", "rating": "2", "reviews": "2 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/18"},
+{"product_name": "Galaxy Note", "product_price": "$489.99", "rating": "3", "reviews": "9 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/19"},
+{"product_name": "MeMO Pad 7", "product_price": "$130.99", "rating": "1", "reviews": "11 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/20"},
+{"product_name": "Galaxy Tab 4", "product_price": "$233.99", "rating": "4", "reviews": "1 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/21"},
+{"product_name": "Galaxy Tab 3", "product_price": "$107.99", "rating": "2", "reviews": "14 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/22"},
+{"product_name": "Memo Pad HD 7", "product_price": "$101.99", "rating": "2", "reviews": "10 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/23"},
+{"product_name": "Galaxy Note 10.1", "product_price": "$587.99", "rating": "2", "reviews": "6 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/24"},
+{"product_name": "MeMo PAD FHD 10", "product_price": "$320.99", "rating": "2", "reviews": "7 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/25"},
+{"product_name": "IdeaTab S5000", "product_price": "$172.99", "rating": "3", "reviews": "8 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/26"},
+{"product_name": "Iconia B1-730HD", "product_price": "$99.99", "rating": "3", "reviews": "1 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/27"},
+{"product_name": "IdeaTab A8-50", "product_price": "$121.99", "rating": "2", "reviews": "13 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/28"},
+{"product_name": "Galaxy Note", "product_price": "$399.99", "rating": "4", "reviews": "12 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/29"},
+{"product_name": "Apple iPad Air", "product_price": "$603.99", "rating": "3", "reviews": "7 reviews", "product_link": "https://webscraper.io/test-sites/e-commerce/static/product/30"}
+]
